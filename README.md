@@ -2,7 +2,7 @@
   <br>
 
   <h2>Descrição:</h2>
-  jogo criado com funcionalidades em HTML, CSS E JS que tem como objetivo fazer a bola acertar a parede rival e marcar mais pontos que o adversário.
+  jogo criado com funcionalidades em HTML, CSS e JS que tem como objetivo fazer a bola acertar a parede rival e marcar mais pontos que o adversário.
 
   <br>
   
